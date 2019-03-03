@@ -37,7 +37,8 @@
     "cheerio-req": "^1.2.2",
     "gulp": "^3.9.1",
     "mocha": "^4.1.0",
-    "request": "^2.87.0"
+    "request": "^2.87.0",
+    "@iobroker/adapter-core": "^1.0.3"
   },
   "main": "stiebel-lwz-dev.js",
   "scripts": {
