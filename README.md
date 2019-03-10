@@ -7,7 +7,7 @@ weiterentwickelt!
 
 ![Logo](admin/stiebel-lwz.png)
 # ioBroker.stiebel-lwz
-=================
+![Number of Installations](http://iobroker.live/badges/stiebel-lwz-installed.svg) ![Number of Installations](http://iobroker.live/badges/stiebel-lwz-stable.svg) =================
 
 [![NPM version](https://img.shields.io/npm/v/iobroker.stiebel-lwz.svg)](https://www.npmjs.com/package/iobroker.stiebel-lwz)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.stiebel-lwz.svg)](https://www.npmjs.com/package/iobroker.stiebel-lwz)
